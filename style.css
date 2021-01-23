@@ -36,7 +36,7 @@
     width: 65%;    
     
 }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     .navbar-brand {
       background: #e3f2fd;
       padding-left: 20px;
@@ -45,6 +45,9 @@
     }
     .navbar {
         background:none;
+    }
+    .viz-large img {
+        width: 100%;
     }
 
  }
