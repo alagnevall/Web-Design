@@ -36,6 +36,12 @@
     width: 65%;    
     
 }
+.table thead tr th{
+    text-align: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
 @media (max-width: 800px) {
     .navbar-brand {
       background: #e3f2fd;
@@ -51,3 +57,4 @@
     }
 
  }
+
